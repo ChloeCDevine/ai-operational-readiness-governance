@@ -5,13 +5,16 @@
 **Author:** Chloe C. Devine  
 **Published:** September 2026
 
-This repository contains two companion resources:
+This repository contains three companion resources:
 
 - **AI Operational Readiness & Governance Practitioner Guide — Version 1.0**  
   DOI: https://doi.org/10.5281/zenodo.22911433
 
 - **AI Operational Readiness & Governance Toolkit — Version 2.0**  
   DOI: https://doi.org/10.5281/zenodo.22973254
+
+- **AI Operational Readiness & Governance Toolkit: Orientation & Methodology Map — Version 2.0**  
+  DOI: https://doi.org/10.5281/zenodo.22983272
 
 ---
 
@@ -101,7 +104,7 @@ Version 2.0 includes eight practitioner assets:
 7. **Pilot Readiness Framework**
 8. **AI Opportunity Executive Briefing**
 
-Together, the resources support a practical progression from discovery and opportunity assessment through future-state design, decision rights, evidence planning, pilot readiness, and executive decision-making.
+Together, the resources support a practical progression from discovery and opportunity assessment through future-state design, decision rights, evidence planning, pilot readiness, and accountable operation.
 
 ### Download the Toolkit
 
@@ -123,18 +126,69 @@ The permanent published version of the Toolkit is available through Zenodo:
 
 ---
 
-## How the Guide and Toolkit Work Together
+## Orientation & Methodology Map
 
-The **Practitioner Guide** provides the methodology and explains the reasoning behind the operating approach.
+The **AI Operational Readiness & Governance Toolkit: Orientation & Methodology Map** is the “start here” companion to the Practitioner Guide and Toolkit.
 
-The **Toolkit** provides practical frameworks and templates for applying that methodology.
+It provides a concise view of how the Toolkit's eight practitioner assets connect across the core lifecycle:
 
-They are designed as companion resources:
+**Discover → Prioritize → Classify → Design → Govern → Evidence → Prepare → Operate**
+
+The Orientation & Methodology Map shows:
+
+- the primary question each Toolkit asset helps answer
+- where each asset fits within the lifecycle
+- the primary output produced at each stage
+- how operational understanding progresses into design, governance, evidence, pilot readiness, and accountable operation
+- how the AI Opportunity Executive Briefing synthesizes lifecycle evidence and decisions for leadership
+- why the methodology is connected rather than strictly linear, allowing new evidence, changing conditions, or material changes to return an organization to earlier stages
+
+It also summarizes key principles behind the methodology, including:
+
+- start with work, not tools
+- policy is not the operating model
+- access does not equal authority
+- human involvement does not equal human accountability
+- controls should be executable, not merely documented
+- governance decisions should rely on sufficient, trustworthy evidence
+- pilot the operating model, not just the technology
+- changing conditions can change the validity of prior decisions
+- accountability must persist after launch
+
+### Download the Orientation & Methodology Map
+
+[**Download the Orientation & Methodology Map v2.0**](https://doi.org/10.5281/zenodo.22983272)
+
+### Canonical publication
+
+The permanent published version is available through Zenodo:
+
+[**https://doi.org/10.5281/zenodo.22983272**](https://doi.org/10.5281/zenodo.22983272)
+
+### Suggested citation
+
+> Devine, Chloe C. (2026). *AI Operational Readiness & Governance Toolkit: Orientation & Methodology Map* (Version 2.0). https://doi.org/10.5281/zenodo.22983272
+
+---
+
+## How the Resources Work Together
+
+The three resources serve different but connected purposes:
+
+**Orientation & Methodology Map → Navigate the method**  
+Provides a concise view of the lifecycle, Toolkit assets, outputs, and underlying principles.
 
 **Practitioner Guide → Understand the method**  
-**Practitioner Toolkit → Apply the method**
+Explains the methodology, operating concepts, governance reasoning, and lifecycle considerations in depth.
 
-The Toolkit does not replace the Guide. The Guide provides the context needed to understand how and why the tools are used, while the Toolkit makes the methodology easier to apply in practice.
+**Practitioner Toolkit → Apply the method**  
+Provides practical frameworks and templates for applying the methodology to AI-enabled work.
+
+Together, they support a progression from understanding the methodology to applying it in practice while maintaining accountability as operating conditions change.
+
+The resources are designed to work together, but practitioners may return to earlier stages and assets as new evidence, risk, design assumptions, or operating conditions emerge.
+
+---
 
 ## Future Research and Validation
 
